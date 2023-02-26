@@ -13,13 +13,9 @@ numbers in a decreasing order. Users will use -999 to
 indicate the end of input. Sample inputs and outputs are as follows.
 
 • Sample Input and Output 1:
-
 Enter a sequence of integer (-999 to finish): 1 2 3 4 5 6 7 8 9 -999
-
 1 3 5 7 9 8 6 4 2
 
 • Sample Input and Output 2:
-
 Enter a sequence of integer (-999 to finish): 1 2 3 4 5 -999
-
 1 3 5 4 2
